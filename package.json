@@ -1,0 +1,24 @@
+{
+  "name": "pm2-web-monitor",
+  "version": "1.0.0",
+  "description": "pm2-web-monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index -f ../example/config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyrstar/pm2-web-monitor.git"
+  },
+  "keywords": [
+    "pm2",
+    "web",
+    "monitor"
+  ],
+  "author": "lyrstar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lyrstar/pm2-web-monitor/issues"
+  },
+  "homepage": "https://github.com/lyrstar/pm2-web-monitor#readme"
+}
